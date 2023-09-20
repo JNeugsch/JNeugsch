@@ -3,7 +3,7 @@
 - https://www.lisdatacenter.org/
   
 - I am an advanced user of Stata, and partly knowledgable of the R coding logic.
-- On this platform, I aim to make available well-structured Stata code which can be plugged into in the remote access system LISSY.
+- On this platform, I aim to make available well-structured Stata code which can be plugged into the remote access system LISSY.
 - The provided documentation should make it easy to alter the code for own analyses.
 
 <!---
